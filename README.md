@@ -20,11 +20,11 @@ Implement a set with push(), pop() and length().
 
 Not Sets are unordered.  
 
-### Test #5 - Reverse a Sentence 
+## Test #5 - Reverse a Sentence 
 
 For example : "bob likes dogs" becomes "dogs likes bob"
 
-### Test #6 - Fibonacci 
+## Test #6 - Fibonacci 
 
 Calculate the Fibonacci number for a given int -- i.e. the sum of the previous 2 Fibonacci Numbers. 
 
@@ -36,7 +36,7 @@ f(4) -> 3
 f(5) -> 5
 f(6) -> 8
 
-### Test #7 - Factors
+## Test #7 - Factors
 
 Given an Integer return all the factors for it. 
 
@@ -44,16 +44,16 @@ f(1) -> 1
 f(2) -> 1,2
 f(15) -> 1,5,15
 
-### Test #8 - Palindrome
+## Test #8 - Palindrome
 
 Write a function the checks if a given string is a palindrome. 
 
 i.e. a String whose reverse is equal to the original. 
 
-### Test #9 - Sort an Array
+## Test #9 - Sort an Array
 
 Return a sorted int array. Don't use Java sort methods. 
 
-### Test #10 - Reverse a String
+## Test #10 - Reverse a String
 
 Write a method that returns a reversed String without sing a reverse method. 
